@@ -5,7 +5,7 @@ Introduction
 ------------
 A selection of snippets to get you started with various tools via Go's custom command. This Readme
 describes syntax of a command and the structure of the repository. For more information about Go's
-support for a command repository, please see
+support for a command repository, please check
 
 <http://www.thoughtworks-studios.com/docs/go/current/help/command_repository.html>
 
